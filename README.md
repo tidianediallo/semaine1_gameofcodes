@@ -6,9 +6,6 @@ Je m'appelle **Tidiane Diallo**, j'ai entamé mon aventure numérique en tant qu
 graphiste dans l'édition. Seulement, depuis deux ans je me suis intéressé 
 aux technologies du web et maintenant je fais mes débuts de développeur. 
 
-## Expérience Professionnelle
-
-## Formations
 
 ## Pourquoi je suis à Simplonline
 
